@@ -87,5 +87,30 @@
         }
       ]
     }
+      ,
+      {
+        "id": "data-storytelling",
+        "title": "Data Storytelling Report",
+        "description": "Write a clear, student-friendly report explaining findings from a dataset, supported by charts and visuals. Focus on communicating insights to a non-technical audience.",
+        "path": "assignments/data-storytelling",
+        "dueDate": "2025-12-02",
+        "attachments": [
+          {
+            "name": "Starter Code",
+            "file": "starter-code.py",
+            "type": "python"
+          },
+          {
+            "name": "Sample Dataset",
+            "file": "sample-data.csv",
+            "type": "csv"
+          },
+          {
+            "name": "Report Template",
+            "file": "report-template.md",
+            "type": "markdown"
+          }
+        ]
+      }
   ]
 }
