@@ -20,12 +20,40 @@
       ]
     },
     {
+      "id": "data-structures-python",
+      "title": "Data Structures in Python",
+      "description": "Lists, dictionaries, sets, and tuples in Python",
+      "path": "assignments/data-structures-python",
+      "dueDate": "2025-12-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
       "path": "assignments/games-in-python",
       "dueDate": "2025-10-26"
     },
+      {
+        "id": "fastapi-rest-api",
+        "title": "Building REST APIs with FastAPI",
+        "description": "Learn to build RESTful APIs using FastAPI, including endpoints, data validation, and error handling.",
+        "path": "assignments/fastapi-rest-api",
+        "dueDate": "2025-12-02",
+        "attachments": [
+          {
+            "name": "Starter Code",
+            "file": "starter-code.py",
+            "type": "python"
+          }
+        ]
+      },
     {
       "id": "python-classes",
       "title": "Python Classes",
